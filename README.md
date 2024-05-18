@@ -1,2 +1,3 @@
-# project-template
+# PROJECT NAME
+
 A general project template
