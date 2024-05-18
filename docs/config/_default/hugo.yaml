@@ -1,0 +1,45 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: PROJECT TEMPLATE
+theme:
+  # - ananke
+  # - typo
+  - PaperMod
+defaultTheme: auto
+
+params:
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+
+  ShowPoweredBy: true
+  ShowReadTime: true
+
+  DateFormat: "2006-01-02"
+  # socialIcons:
+  #   - name: x
+  #     url: "https://x.com/"
+  #   - name: stackoverflow
+  #     url: "https://stackoverflow.com"
+  #   - name: github
+  #     url: "https://github.com/"
+_: null
+# menu:
+#   main:
+#     - identifier: categories
+#       name: categories
+#       url: /categories/
+#       weight: 10
+#     - identifier: tags
+#       name: tags
+#       url: /tags/
+#       weight: 20
+#     # - identifier: example
+#     #   name: example.org
+#     #   url: https://example.org
+#     #   weight: 30
